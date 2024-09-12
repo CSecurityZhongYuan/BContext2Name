@@ -1,6 +1,6 @@
 # Naming Functions in Stripped Binaries via Contextual Semantics
 
-![An overview of the ]( "Data-generation Process")
+![System Workflow](https://github.com/CSecurityZhongYuan/BContext2Name/blob/main/images/Overview.jpg?raw=true "System Workflow")
 Table of Contents
 =================
 * [Requirements](#requirements)
